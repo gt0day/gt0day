@@ -41,11 +41,10 @@ src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25d
 </p>
 
 <h3 align="left">Stars</h3>
-<img
+<p><img
  align="left" height="180em" 
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=gt0day&layout=compact&theme=chartreuse-dark"
- alt=gt0day
-              />
+ alt=gt0day /></p>
 
 <p>&nbsp;<img align="center" 
 height="180em" 
