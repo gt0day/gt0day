@@ -42,17 +42,17 @@ src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25d
 
 <h3 align="left">Stars</h3>
 <p><img
- align="left" height="180em" 
+ align="left" height="120em" 
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=gt0day&layout=compact&theme=chartreuse-dark"
  alt=gt0day /></p>
 
 <p>&nbsp;<img align="center" 
-height="180em" 
+height="140em" 
 src="https://github-readme-stats.vercel.app/api?username=gt0day&show_icons=true&locale=en&theme=chartreuse-dark"
  alt="gt0day" /></p>
 
 <p><img align="center" 
-height="180em" 
+height="120em" 
 src="https://github-readme-streak-stats.herokuapp.com/?user=gt0day&theme=chartreuse-dark"
  alt="gt0day" /></p>
 
