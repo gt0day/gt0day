@@ -41,10 +41,6 @@ src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25d
 </p>
 
 <h3 align="left">Stars</h3>
-<p><img
- align="left" height="120em" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=gt0day&layout=compact&theme=chartreuse-dark"
- alt=gt0day /></p>
 
 <p>&nbsp;<img align="center" 
 height="140em" 
@@ -63,12 +59,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=gt0day&theme=chartre
  align="center" 
 src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gt0day&theme=chartreuse_dark"
  height="180em" />
-<img align="center" 
-src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gt0day&theme=chartreuse_dark"
- height="180em" />
-<img align="center" 
-src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gt0day&theme=chartreuse_dark"
- height="180em" />
+
 <img align="center" 
 src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gt0day&theme=chartreuse_dark"
  height="180em" />
