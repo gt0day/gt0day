@@ -43,12 +43,12 @@ src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25d
 <h3 align="left">Stars</h3>
 
 <p>&nbsp;<img align="center" 
-height="140em" 
+height="200em" 
 src="https://github-readme-stats.vercel.app/api?username=gt0day&show_icons=true&locale=en&theme=chartreuse-dark"
  alt="gt0day" /></p>
 
 <p><img align="center" 
-height="120em" 
+height="180em" 
 src="https://github-readme-streak-stats.herokuapp.com/?user=gt0day&theme=chartreuse-dark"
  alt="gt0day" /></p>
 
